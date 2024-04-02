@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+    margin: 3rem auto;
+}
+.header h1{
+    font-size: 20px;
+    color: wheat;
+}
+.header img{
+    margin-bottom: 10px;
+    object-fit: contain;
+}
